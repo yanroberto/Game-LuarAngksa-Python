@@ -45,8 +45,8 @@ Gambar_pemain = pygame.image.load('space-invaders.png')
 
 
 #varibel menampung_icon
-icon = pygame.image.load('icon.png')
-pygame.display.set_icon(icon)
+#icon = pygame.image.load('icon.png')
+#pygame.display.set_icon(icon)
 
 #funsgi pemain 
 def pemain (x,y):
